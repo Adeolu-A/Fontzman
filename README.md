@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fontzman
+- 👋 Hi, I’m @Adeolu
 - 👀 I’m interested in learning a new programe
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate as I go on
